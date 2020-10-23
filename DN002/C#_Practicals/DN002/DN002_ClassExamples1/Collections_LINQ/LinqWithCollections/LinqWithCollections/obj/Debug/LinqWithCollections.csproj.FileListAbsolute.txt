@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Collections_LINQ\LinqWithCollections\LinqWithCollections\bin\Debug\LinqWithCollections.exe.config
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Collections_LINQ\LinqWithCollections\LinqWithCollections\bin\Debug\LinqWithCollections.exe
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Collections_LINQ\LinqWithCollections\LinqWithCollections\bin\Debug\LinqWithCollections.pdb
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Collections_LINQ\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Collections_LINQ\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Collections_LINQ\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.exe
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Collections_LINQ\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.pdb
