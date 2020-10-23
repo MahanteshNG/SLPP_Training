@@ -1,0 +1,75 @@
+<!Doctype html>
+
+<head>
+<title>Calcuation</title>
+<script type="text/javascript">
+function Calculate()
+{
+/* extract data from textboxes */
+/* Any data in a textbox if input type="text" these will store string data.
+So use Number() function to convert string data to number */
+
+var number1=Number(document.getElementById("txtNumber1").value);
+var number2=Number(document.getElementById("txtNumber2").value);
+
+var operationType=document.getElementById("ddlCalculationType").value;
+
+var operationResult;
+switch(operationType)
+{
+case "Addition":
+operationResult=number1+number2;
+break;
+
+case "Substraction":
+if(number1>number2)
+{
+operationResult=number1-number2;
+}
+else
+{
+operationResult=number2-number1;
+}
+break;
+
+case "Multiplication":
+operationResult=number1*number2;
+break;
+
+case "Select":
+alert("Please choose arithmentic option");
+break;
+}
+
+document.getElementById("Result").innerHTML="Result: "+operationResult;
+return false;
+}
+</script>
+</head>
+
+<body>
+<form id="form" onsubmit="return Calculate()">
+<center>
+<label for="txtNumber1">Enter Number1:</label><br/>
+<input type="text" id="txtNumber1" required/>
+<br/><br/><br/>
+<label for="txtNumber2">Enter Number2:</label><br/>
+<input type="text" id="txtNumber2" required/>
+<br/><br/><br/>
+<select id="ddlCalculationType">
+<option value="Select">Select...</option>
+<option value="Addition">Addition</option>
+<option value="Substraction">Substraction</option>
+<option value="Multiplication">Multiplication</option>
+</select>
+<br/><br/><br/>
+<input type="submit" id="btnSubmit" value="Calculate"/>
+<br/><br/><br/>
+<div id="Result">
+
+</div>
+</center>
+</form>
+</body>
+
+</html>
