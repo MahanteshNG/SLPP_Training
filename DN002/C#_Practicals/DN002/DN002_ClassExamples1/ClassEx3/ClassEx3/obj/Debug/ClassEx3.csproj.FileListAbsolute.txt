@@ -1,0 +1,6 @@
+C:\Users\kaushik\Desktop\SLPPDN002\C#_Practicals\DN002\DN002_ClassExamples1\ClassEx3\ClassEx3\bin\Debug\ClassEx3.exe.config
+C:\Users\kaushik\Desktop\SLPPDN002\C#_Practicals\DN002\DN002_ClassExamples1\ClassEx3\ClassEx3\bin\Debug\ClassEx3.exe
+C:\Users\kaushik\Desktop\SLPPDN002\C#_Practicals\DN002\DN002_ClassExamples1\ClassEx3\ClassEx3\bin\Debug\ClassEx3.pdb
+C:\Users\kaushik\Desktop\SLPPDN002\C#_Practicals\DN002\DN002_ClassExamples1\ClassEx3\ClassEx3\obj\Debug\ClassEx3.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN002\C#_Practicals\DN002\DN002_ClassExamples1\ClassEx3\ClassEx3\obj\Debug\ClassEx3.exe
+C:\Users\kaushik\Desktop\SLPPDN002\C#_Practicals\DN002\DN002_ClassExamples1\ClassEx3\ClassEx3\obj\Debug\ClassEx3.pdb
