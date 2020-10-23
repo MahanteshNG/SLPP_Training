@@ -1,0 +1,56 @@
+Collections: Dynaic placeholder where we can keep records. The size is not fixed and grows
+or shrinks according to addition or deletion of elements.
+
+Benefits:
+(i) Easy to Maintain
+(ii) Easy to work as contains a large number of build in APIs.
+
+Collection are classes which implements IEnumerable Interface.
+
+Types of Collections:
+(i) Non Generic Collection:Here the datatype is not fixed [ie any element of any datatype can
+enter to this collection].
+
+Drawback:
+(A) It is not type safe
+(ii) Compilation is slower than array
+
+Namespace: System.Collections
+
+Examples of Non-Generic Collection:
+(A) ArrayList  (B) Stack   (C) Queue
+
+
+(ii) Generic Collection<T>: This type of collection has datatype constraint <T> which tells what 
+datatype value is allowed to be entered in collection and what is not allowed.
+
+Benefit:
+(i) Type Safe
+(ii) Compliation is faster
+
+Namespace: System.Collections.Generic
+
+Types of Generic:
+(A) List<T>     (B) Set<T>     (C) Dictionary<T,T>
+
+List allow storage of duplicate data
+
+Set does not allow storage of duplicate data.
+
+Set Types:
+(1) HashSet    (2) SortedSet (Data will be stored in ascending sorted manner)
+
+Dictionary<T,T> stores data as key-value pair where a value is recognized by it key.
+Key is unique whereas value can be duplicate.
+
+Dictionary Types:
+(1) Dictionary     (2) Sorted Dictionary (Elements are stored in ascending manner via the keys)
+
+
+
+
+
+
+
+
+
