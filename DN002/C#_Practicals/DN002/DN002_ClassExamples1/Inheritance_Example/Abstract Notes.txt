@@ -1,0 +1,21 @@
+Abstract Class and Abstract Method:
+
+A method is defined abstract if it does not contain any defination under declaring class[ie, the method
+will contain only declaration but not body].
+
+The Class which contains the abstract method has also to be abstract [ie we can not declare an
+abstract method under a non abstract class].
+
+Use abstract to declare an abstract class and abstract method.
+
+Apart from abstract methods; we can have normal methods and properties,contrctors under abstract class.
+
+We can not create any instance [ie object] of abstract class.
+
+abstract class Game
+{
+abstract void Play();
+}
+
+All abstract methods of abstract class has to be implemented by child class; otherwise compiler
+will raise an error.
