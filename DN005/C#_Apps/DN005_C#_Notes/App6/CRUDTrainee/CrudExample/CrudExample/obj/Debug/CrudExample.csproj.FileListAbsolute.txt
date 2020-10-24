@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App6\CRUDTrainee\CrudExample\CrudExample\bin\Debug\CrudExample.exe.config
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App6\CRUDTrainee\CrudExample\CrudExample\bin\Debug\CrudExample.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App6\CRUDTrainee\CrudExample\CrudExample\bin\Debug\CrudExample.pdb
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App6\CRUDTrainee\CrudExample\CrudExample\obj\Debug\CrudExample.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App6\CRUDTrainee\CrudExample\CrudExample\obj\Debug\CrudExample.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App6\CRUDTrainee\CrudExample\CrudExample\obj\Debug\CrudExample.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App6\CRUDTrainee\CrudExample\CrudExample\obj\Debug\CrudExample.pdb

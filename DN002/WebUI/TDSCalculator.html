@@ -1,0 +1,80 @@
+<!Doctype HTML>
+
+<head>
+<title>Employee TDS APP</title>
+</head>
+
+<body>
+<header>
+<!--Give a caption for the web page and align the caption at the center of browser window-->
+<center>
+<h1>Employee TDS FORM</h1>
+</center>
+</header>
+<hr/>
+<br/>
+
+<center>
+
+<div id="TdSSlabDiv">
+<table border="1">
+<caption>TDS SLAB TABLE</caption>
+
+<tr>
+<th>Salary Range</th>
+<th>Tax Info</th>
+</tr>
+
+<tr>
+<td>Salary<=300000</td>
+<td>NIL</td>
+</tr>
+
+<tr>
+<td>Salary>300000 and Salary<=1000000</td>
+<td>12.5%</td>
+</tr>
+
+<tr>
+<td>Salary>1000000</td>
+<td>15.6%</td>
+</tr>
+
+<tr>
+<td colspan="2">**Tax Rate Subjected to Change</td>
+</tr>
+
+</table>
+
+</div>
+<br/><br/>
+<div id="TdsCalculatorControl">
+<form id="CalculatorForm">
+<label for="txtName">Enter Employee Name:</label><br/>
+<input type="text" id="txtName" placeholder="Name Input" required/>
+<br/><br/>
+<label for="ddlEmployeeType">Select Employee Type:</label><br/>
+<!--Drop Down List-->
+<select id="ddlEmployeeType">
+<option value="Select">Select....</option>
+<option value="Manager">Manager</option>
+<option value="Trainee">Trainee</option>
+</select>
+<br/><br/>
+<input type="submit" id="btnSubmit" value="Calcuate"/>
+
+</form>
+</div>
+
+</center>
+
+
+<br/><br/>
+<hr/>
+<footer>
+<center>
+<h3>Copyright &copy; Cognizant 2020</h3>
+</center>
+</footer>
+</body>
+

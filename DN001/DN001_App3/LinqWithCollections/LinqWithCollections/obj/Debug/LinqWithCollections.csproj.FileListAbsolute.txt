@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SLPPDN001\C#\DN001\DN001_App3\LinqWithCollections\LinqWithCollections\bin\Debug\LinqWithCollections.exe.config
+C:\Users\kaushik\Desktop\SLPPDN001\C#\DN001\DN001_App3\LinqWithCollections\LinqWithCollections\bin\Debug\LinqWithCollections.exe
+C:\Users\kaushik\Desktop\SLPPDN001\C#\DN001\DN001_App3\LinqWithCollections\LinqWithCollections\bin\Debug\LinqWithCollections.pdb
+C:\Users\kaushik\Desktop\SLPPDN001\C#\DN001\DN001_App3\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SLPPDN001\C#\DN001\DN001_App3\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN001\C#\DN001\DN001_App3\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.exe
+C:\Users\kaushik\Desktop\SLPPDN001\C#\DN001\DN001_App3\LinqWithCollections\LinqWithCollections\obj\Debug\LinqWithCollections.pdb

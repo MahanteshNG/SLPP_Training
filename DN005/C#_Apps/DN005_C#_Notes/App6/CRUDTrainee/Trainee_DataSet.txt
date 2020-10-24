@@ -1,0 +1,26 @@
+USE [slppdb]
+GO
+
+/****** Object:  Table [dbo].[trainee]    Script Date: 10/14/2020 2:56:37 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[trainee](
+	[TraineeId] [int] IDENTITY(1,1) NOT NULL,
+	[TraineeName] [varchar](100) NOT NULL,
+	[BatchCode] [varchar](100) NOT NULL,
+	[DateOfJoining] [date] NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+

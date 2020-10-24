@@ -1,0 +1,90 @@
+<!Doctype HTML>
+
+<head>
+<title>Employee App</title>
+<script type="text/javascript">
+function Calculation()
+{
+/* Any data in a textbox with type="text" is string type. So to do numeric calculation
+convert it to number using Number() function */
+var ctc=Number(document.getElementById("txtCTC").value);
+var employeeType=document.getElementById("ddlEmployeeType").value;
+
+var tdsBasedOnEmployeeType;
+switch(employeeType)
+{
+case "Manager":
+tdsBasedOnEmployeeType=ctc*(12.5/100);
+break;
+case "Trainee":
+tdsBasedOnEmployeeType=ctc*(6.7/100);
+break;
+case "Select":
+alert("Please choose Employee Type");
+break;
+}
+
+var finalTDS;
+if(document.getElementById("Male").checked)
+{
+finalTDS=tdsBasedOnEmployeeType;
+}
+if(document.getElementById("Female").checked)
+{
+finalTDS=tdsBasedOnEmployeeType-550;
+}
+
+document.getElementById("Result").innerHTML="<b>The TDS CALCULATED IS: "+finalTDS+"</b>";
+return false;
+}
+</script>
+</head>
+
+<body>
+
+<header style="background-color:black; color:white;">
+<center>
+<h1>TDS Calculator</h1>
+</center>
+</header>
+
+<form id=form1" onsubmit="return Calculation()">
+<center>
+<fieldset style="width:500px;height:400px;border:3px solid black;">
+<legend>
+Calculator
+</legend>
+
+<label for="txtCTC">Enter Annual Salary:</label><br/>
+<input type="text" id="txtCTC" placeholder="Salary Input" required/>
+<br/><br/>
+<label for="ddlEmployeeType">Select Employee Type:</label><br/>
+<select id="ddlEmployeeType">
+<option value="Select">Select....</option>
+<option value="Manager">Manager</option>
+<option value="Trainee">Trainee</option>
+</select>
+<br/><br/>
+<label for="radioGender">Select Gender:</label><br/>
+<b>Male</b><input type="radio" id="Male" name="radioGender" value="Male"/> &nbsp;&nbsp;&nbsp;
+<b>Female</b><input type="radio" id="Female" name="radioGender" value="Female"/>
+<br/><br/>
+<input type="submit" id="btnSubmit" value="Calculate"/>
+<br/><br/><br/>
+<div id="Result">
+
+<div>
+</fieldset>
+</center>
+</form>
+
+<br/><br/>
+<footer style="background-color:black; color:white;">
+<center>
+<h3>Copyright &copy; 2020-21</h3>
+</center>
+</footer>
+
+</body>
+
+</HTML>
