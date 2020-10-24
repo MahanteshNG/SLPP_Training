@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Simple_Collections\Simple_Collections\bin\Debug\Simple_Collections.exe.config
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Simple_Collections\Simple_Collections\bin\Debug\Simple_Collections.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Simple_Collections\Simple_Collections\bin\Debug\Simple_Collections.pdb
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Simple_Collections\Simple_Collections\obj\Debug\Simple_Collections.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Simple_Collections\Simple_Collections\obj\Debug\Simple_Collections.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Simple_Collections\Simple_Collections\obj\Debug\Simple_Collections.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Simple_Collections\Simple_Collections\obj\Debug\Simple_Collections.pdb

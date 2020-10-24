@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App5\LINQ\Linq_Class_Collection\Linq_Class_Collection\bin\Debug\Linq_Class_Collection.exe.config
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App5\LINQ\Linq_Class_Collection\Linq_Class_Collection\bin\Debug\Linq_Class_Collection.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App5\LINQ\Linq_Class_Collection\Linq_Class_Collection\bin\Debug\Linq_Class_Collection.pdb
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App5\LINQ\Linq_Class_Collection\Linq_Class_Collection\obj\Debug\Linq_Class_Collection.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App5\LINQ\Linq_Class_Collection\Linq_Class_Collection\obj\Debug\Linq_Class_Collection.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App5\LINQ\Linq_Class_Collection\Linq_Class_Collection\obj\Debug\Linq_Class_Collection.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App5\LINQ\Linq_Class_Collection\Linq_Class_Collection\obj\Debug\Linq_Class_Collection.pdb
