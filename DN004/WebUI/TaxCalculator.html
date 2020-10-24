@@ -1,0 +1,90 @@
+<!Doctype HTML>
+
+<head>
+<title>Employee TDS App</title>
+<!--Add external css in the html document-->
+<link rel="stylesheet" type="text/css" href="../WebUI/WebStyle.css"/>
+</head>
+
+<body>
+<header>
+<center>
+<h1>Tax Calculator Form</h1>
+</center>
+</header>
+<hr/>
+
+<div id="Div1">
+<center>
+<table border="1">
+<caption>
+<h3>TDS SLAB INFORMATION</h3>
+</caption>
+
+<tr>
+<th>SALARY RANGE</th>
+<th>TAX INFORMATION</th>
+</tr>
+
+<tr>
+<td>Salary<=300000</td>
+<td>NIL</td>
+</tr>
+
+<tr>
+<td>Salary>300000 and <=1000000</td>
+<td>12.5% of Salary</td>
+</tr>
+
+<tr>
+<td>Salary>1000000</td>
+<td>17% of Salary</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<b>**Tax Subjected to Change By Goverment**</b>
+</td>
+</tr>
+
+</table>
+</center>
+</div>
+<br/><br/>
+
+<form id="TaxForm">
+<center>
+<fieldset>
+<legend>TAX CALCULATOR</legend>
+<label for="TxtEmployeeName">Enter Employee Name</label><br/>
+<input type="text" id="TxtEmployeeName" placeholder="Name Input" required/>
+<br/><br/>
+<label for="TxtEmail">Enter Employee Email</label><br/>
+<input type="email" id="TxtEmail" placeholder="Email Input" required/>
+<br/><br/>
+<label for="ddlFinalcialYear">Select Finacial Year</label><br/>
+<select id="ddlFinalcialYear">
+<option value="Select Year">Select Year...</option>
+<option value="2018-2019">2018-2019</option>
+<option value="2019-2020">2019-2020</option>
+<option value="2020-2021">2020-2021</option>
+</select>
+<br/><br/>
+<label for="RadioGender">Select Gender</label><br/>
+Male: <input type="radio" id="Male" name="RadioGender" value="Male"/> &nbsp;&nbsp;&nbsp;&nbsp;
+Female: <input type="radio" id="Female" name="RadioGender" value="Female"/>
+<br/><br/>
+<input type="submit" id="btnSubmit" value="Calculate"/>
+</fieldset>
+</center>
+</form>
+<br/><br/>
+<hr/>
+<footer>
+<center>
+<h3>Copyright &copy; Cognizant 2020</h3>
+</center>
+</footer>
+</body>
+
+</HTML>
