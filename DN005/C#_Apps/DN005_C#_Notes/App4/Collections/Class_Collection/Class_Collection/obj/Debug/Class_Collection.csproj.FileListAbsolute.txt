@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Class_Collection\Class_Collection\bin\Debug\Class_Collection.exe.config
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Class_Collection\Class_Collection\bin\Debug\Class_Collection.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Class_Collection\Class_Collection\bin\Debug\Class_Collection.pdb
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Class_Collection\Class_Collection\obj\Debug\Class_Collection.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Class_Collection\Class_Collection\obj\Debug\Class_Collection.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Class_Collection\Class_Collection\obj\Debug\Class_Collection.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App4\Collections\Class_Collection\Class_Collection\obj\Debug\Class_Collection.pdb
