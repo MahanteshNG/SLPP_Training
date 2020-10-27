@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\ListOfClassObjectsEx1\ListOfClassObjectsEx1\bin\Debug\ListOfClassObjectsEx1.exe.config
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\ListOfClassObjectsEx1\ListOfClassObjectsEx1\bin\Debug\ListOfClassObjectsEx1.exe
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\ListOfClassObjectsEx1\ListOfClassObjectsEx1\bin\Debug\ListOfClassObjectsEx1.pdb
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\ListOfClassObjectsEx1\ListOfClassObjectsEx1\obj\Debug\ListOfClassObjectsEx1.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\ListOfClassObjectsEx1\ListOfClassObjectsEx1\obj\Debug\ListOfClassObjectsEx1.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\ListOfClassObjectsEx1\ListOfClassObjectsEx1\obj\Debug\ListOfClassObjectsEx1.exe
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\ListOfClassObjectsEx1\ListOfClassObjectsEx1\obj\Debug\ListOfClassObjectsEx1.pdb
