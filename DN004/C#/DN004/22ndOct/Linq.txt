@@ -1,0 +1,21 @@
+LINQ [Language Integrated Query]
+
+Linq is a sql type language written in C# through which we can query information from collections
+or array very easily like searching data, sorting data, displaying data etc.
+
+Namespace: System.Linq
+
+Linq Syntax Types:
+
+(i) Linq Query: Sql like queries written in C# language
+
+Syntax:
+From data in collection..[where/order by etc]....select data
+
+
+(ii) Lamda Expression: This expressions are short formats for Linq Queries
+Lamda Expression Syntax:
+Data=>Data_Operation
+=> is known as lamda operator
+example:
+data=>data%2==0
