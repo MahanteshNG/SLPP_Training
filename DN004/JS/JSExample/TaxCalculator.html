@@ -1,0 +1,128 @@
+<!Doctype HTML>
+
+<head>
+<script type="text/javascript">
+function Calculate()
+{
+/* Extract data from textbox */
+/* Data in textbox is present in string format if input type="text". So use Number() function
+to typecast the data to numeric format */
+
+var textData=Number(document.getElementById("txtAnnualSalary").value);
+var employeeTypeTax;
+/* Extract Option values from DropDown */
+var employeeType=document.getElementById("ddlEmployeeType").value;
+
+switch(employeeType)
+{
+case "Manager":
+//For manager Tax is 18 % of CTC
+employeeTypeTax=textData*(18/100);
+break;
+
+case "Trainee":
+//For Trainee Tax is 8.5% of CTC
+employeeTypeTax=textData*(8.5/100);
+break;
+
+case "Select":
+alert("Please select either Manager or Trainee Option");
+break;
+}
+
+var finalTdsTax;
+
+if(document.getElementById("Male").checked) /* ie if the user has checked male radio button*/
+{
+finalTdsTax=employeeTypeTax;
+}
+
+if(document.getElementById("Female").checked) /* ie if the user has checked female radio button */
+{
+finalTdsTax=employeeTypeTax-1000;
+}
+
+/* Save the Final Tax under Div with id="Result" for display */
+document.getElementById("Result").innerHTML="Tax for Year 2020-21 is: "+finalTdsTax;
+
+return false;
+}
+</script>
+</head>
+
+<body>
+<br/><br/><br/><br/>
+<center>
+<div style="background-color:lightgray;width:500px;height:300px;border:3px solid black;">
+<form id="form1" onsubmit="return Calculate()">
+<br/><br/><br/>
+<center>
+<table>
+
+<tr>
+<td><label for="txtAnnualSalary">Enter Annual Salary:</label></td>
+<td><input type="text" id="txtAnnualSalary" placeholder="Enter CTC" required/></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><label for="ddlEmployeeType">Select Employee Type:</label></td>
+<td>
+<select id="ddlEmployeeType">
+<option value="Select">Select...</option>
+<option value="Manager">Manager</option>
+<option value="Trainee">Trainee</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td><label for="radioGender">Select Gender:</label></td>
+<td>
+<b>Male:&nbsp;<input type="radio" name="radioGender" id="Male" value="Male"/>&nbsp;&nbsp;&nbsp;
+<b>Female:&nbsp;<input type="radio" name="radioGender" id="Female" value="Female"/>
+</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<input type="submit" id="btnSubmit" value="Calculate Tax"/>
+</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>
+<div id="Result" style="background-color:black;color:white;">
+
+</div>
+</td>
+</tr>
+</table>
+</center>
+</form>
+</div>
+</center>
+</body>
+
+</HTML>

@@ -1,0 +1,79 @@
+create database dbBookTheShow;
+use dbBookTheShow;
+
+create table tblMovie
+(
+Movie_Id varchar(100) not null,
+Movie_Name varchar(100) not null,
+Box_Office_Collection varchar(100),
+Movie_Genere varchar(100) not null
+);
+
+alter table tblMovie add constraint pk_MovieId primary key(Movie_Id);
+
+alter table tblMovie add constraint un_MovieName unique(Movie_Name);
+
+alter table tblMovie add constraint chk_MovieGenere 
+check(Movie_Genere IN('Action','Fantasy','Romantic'));
+
+insert into tblMovie values
+('M001','Rocky Rambo','5 Crore','Action'),
+('M002','Harry Porter','10 Crore','Fantasy'),
+('M003','The Magical Beast','8 Crore','Fantasy'),
+('M004','Transporter2','11 Crore','Action'),
+('M005','A Beautiful Mind','18 Crore','Romantic'),
+('M006','Transformer','12 Crore','Fantasy');
+
+create table tblViewer
+(
+Viewer_Id varchar(100) not null,
+Viewer_Name varchar(100) not null,
+Email_Id varchar(100),
+Phone varchar(100) not null,
+Viewer_Address varchar(100) not null
+);
+
+
+alter table tblViewer add constraint pk_ViewerId primary key(Viewer_Id);
+
+alter table tblViewer add constraint un_EmailId unique(Email_Id);
+
+alter table tblViewer add constraint un_Phone unique(Phone);
+
+create table tblMovieComplex
+(
+Complex_Name varchar(100) not null,
+Ticket_Id varchar(100) not null,
+Screen_Number int not null,
+Screening_Date date,
+Viewer_Id varchar(100) not null,
+Movie_Id varchar(100) not null
+);
+
+alter table tblMovieComplex add constraint pk_TicketId 
+primary key(Ticket_Id);
+
+alter table tblMovieComplex add constraint fk_ViewerId foreign key(Viewer_Id)
+references tblViewer(Viewer_Id) on delete cascade on update cascade;
+
+alter table tblMovieComplex add constraint fk_MovieId foreign key(Movie_Id) 
+references tblMovie(Movie_Id) on delete cascade on update cascade;
+
+alter table tblMovieComplex add constraint 
+chk_ScreenNumber check(Screen_Number between 1 and 5);
+
+insert into tblViewer values
+('V001','Sam','sam@yahoo.in','9600197755','Coimbatore-Tamil Nadu-600111'),
+('V002','Joe','joe@gmail.com','8794561230','Chennai-Tamil Nadu-603102'),
+('V003','Merry','merry@gmail.com','7682458976','Kolkata-West Bengal-700001'),
+('V004','Tom','tom@yahoo.co.in','9600197758','Madurai-Tamil Nadu-600117'),
+('V005','Hari','hari@gmail.com','8521479630','Durgapur-West Bengal-713212');
+
+insert into tblMovieComplex values
+('PVR Escape Mall','PC002',2,'2018-02-20','V001','M002'),
+('Inox Forum','IN001',3,'2018-02-20','V003','M005'),
+('Inox Forum','IN002',1,'2018-03-15','V001','M002'),
+('PVR Cinema','PC001',4,'2018-04-21','V001','M005'),
+('Inox Escape Mall','IN003',2,'2018-04-25','V005','M001'),
+('Inox Escape Mall','IN004',1,'2018-04-25','V003','M005');
+
