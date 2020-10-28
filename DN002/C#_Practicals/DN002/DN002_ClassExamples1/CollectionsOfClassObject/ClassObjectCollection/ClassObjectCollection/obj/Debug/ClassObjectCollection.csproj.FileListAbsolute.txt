@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\CollectionsOfClassObject\ClassObjectCollection\ClassObjectCollection\bin\Debug\ClassObjectCollection.exe.config
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\CollectionsOfClassObject\ClassObjectCollection\ClassObjectCollection\bin\Debug\ClassObjectCollection.exe
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\CollectionsOfClassObject\ClassObjectCollection\ClassObjectCollection\bin\Debug\ClassObjectCollection.pdb
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\CollectionsOfClassObject\ClassObjectCollection\ClassObjectCollection\obj\Debug\ClassObjectCollection.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\CollectionsOfClassObject\ClassObjectCollection\ClassObjectCollection\obj\Debug\ClassObjectCollection.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\CollectionsOfClassObject\ClassObjectCollection\ClassObjectCollection\obj\Debug\ClassObjectCollection.exe
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\CollectionsOfClassObject\ClassObjectCollection\ClassObjectCollection\obj\Debug\ClassObjectCollection.pdb
