@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLeaveTracker", "EmployeeLeaveTracker\EmployeeLeaveTracker.csproj", "{38FCD2A6-4B68-452C-AC45-E85316BB666A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLeaveTrackerTests", "EmployeeLeaveTrackerTests\EmployeeLeaveTrackerTests.csproj", "{807F1C0F-54E2-4B96-9020-1D356BDA9A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FCD2A6-4B68-452C-AC45-E85316BB666A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FCD2A6-4B68-452C-AC45-E85316BB666A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FCD2A6-4B68-452C-AC45-E85316BB666A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FCD2A6-4B68-452C-AC45-E85316BB666A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807F1C0F-54E2-4B96-9020-1D356BDA9A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807F1C0F-54E2-4B96-9020-1D356BDA9A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807F1C0F-54E2-4B96-9020-1D356BDA9A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807F1C0F-54E2-4B96-9020-1D356BDA9A89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B485330D-5C41-4ED2-9B3A-5B897AE1524E}
+	EndGlobalSection
+EndGlobal
