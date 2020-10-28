@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Inheritance_Example\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.exe.config
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Inheritance_Example\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.exe
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Inheritance_Example\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.pdb
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Inheritance_Example\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Inheritance_Example\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Inheritance_Example\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.exe
+C:\Users\kaushik\Desktop\SLPPDN002\DN002\C#_Practicals\DN002\DN002_ClassExamples1\Inheritance_Example\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.pdb

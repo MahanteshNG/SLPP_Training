@@ -1,0 +1,104 @@
+<!Doctype HTML>
+
+<head>
+<title>Login</title>
+<!--Add external CSS File-->
+<link rel="stylesheet" type="text/css" href="../WebUI/FormStyle.css"/>
+
+<!--Internal CSS-->
+<style type="text/css">
+/* Class Selector */
+.headerFooterStyle
+{
+background-color:black;
+color:white;
+}
+
+.labelStyle
+{
+color:red;
+font-size:24px;
+font-family:Monotype Corsiva;
+}
+
+.txtBoxStyle
+{
+width:300px;
+height:30px;
+}
+
+.anchor
+{
+color:blue;
+background-color:white;
+font-size:Medium;
+}
+
+.anchor:hover
+{
+color:red;
+background-color:yellow;
+font-size:Larger;
+}
+
+img
+{
+width:40px;
+height:40px;
+opacity:0.5px;
+}
+
+img:hover
+{
+width:100px;
+height:100px;
+opacity:1px;
+}
+</style>
+</head>
+
+<body>
+
+<header class="headerFooterStyle">
+<center>
+<h1>Employee LOGIN FORM</h1>
+<a href="http://www.google.com" class="anchor">Open Google</a>
+</center>
+</header>
+<br/>
+
+<center>
+<!--Inline CSS-->
+<div id="LoginDiv" style="width:600px;height:400px;background-color:#FFE4C4;border:2px solid black;">
+<br/><br/>
+
+<form id="loginForm">
+
+<fieldset style="border:2px solid red;width:500px;height:300px;">
+<legend>LOGIN</legend>
+<label for="txtUsername" class="labelStyle">Enter User Name:</label><br/>
+<input type="text" id="txtUsername" placeholder="Username Input" required class="txtBoxStyle"/>
+<br/><br/>
+<label for="txtPassword" class="labelStyle">Enter Password:</label><br/>
+<input type="password" id="txtPassword" placeholder="Password Input" required class="txtBoxStyle"/>
+<br/><br/>
+<input type="image" src="../WebUI/login.jpg" width="75" height="75"/>&nbsp;&nbsp;
+<img src="../WebUI/tdsDeduction.jpg"/>
+
+</fieldset>
+</form>
+
+</div>
+</center>
+
+<br/>
+
+<footer class="headerFooterStyle">
+<center>
+<h3>Copyright &copy; 2020
+</center>
+</footer>
+</body>
+
+
+</HTML>
