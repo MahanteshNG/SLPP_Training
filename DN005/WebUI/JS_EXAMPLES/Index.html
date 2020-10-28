@@ -1,0 +1,30 @@
+<!Doctype HTML>
+
+<head>
+<title>Employee APP</title>
+<script type="text/javascript">
+function Message()
+{
+alert("Welcome to TDS Calculator");
+/*document.write("Welcome to TDS Calculator");*/
+window.open("../JS_EXAMPLES/TaxCalculator.html");
+this.close(); //the current page will close down in browser
+return false;
+}
+</script>
+</head>
+
+<body>
+<script type="text/javascript">
+var currentDateTimeInfo=new Date();
+alert("Current Date and Time: "+currentDateTimeInfo);
+</script>
+
+<br/><br/>
+<form id="form1">
+<input type="submit" id="btnSubmit" value="Next" onclick="return Message()"/>
+</form>
+
+</body>
+
+</HTML>

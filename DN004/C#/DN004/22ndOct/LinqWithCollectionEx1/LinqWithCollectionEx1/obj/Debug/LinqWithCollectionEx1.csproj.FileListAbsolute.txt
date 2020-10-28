@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SSLPDN004\DN004\C#\DN004\22ndOct\LinqWithCollectionEx1\LinqWithCollectionEx1\bin\Debug\LinqWithCollectionEx1.exe.config
+C:\Users\kaushik\Desktop\SSLPDN004\DN004\C#\DN004\22ndOct\LinqWithCollectionEx1\LinqWithCollectionEx1\bin\Debug\LinqWithCollectionEx1.exe
+C:\Users\kaushik\Desktop\SSLPDN004\DN004\C#\DN004\22ndOct\LinqWithCollectionEx1\LinqWithCollectionEx1\bin\Debug\LinqWithCollectionEx1.pdb
+C:\Users\kaushik\Desktop\SSLPDN004\DN004\C#\DN004\22ndOct\LinqWithCollectionEx1\LinqWithCollectionEx1\obj\Debug\LinqWithCollectionEx1.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SSLPDN004\DN004\C#\DN004\22ndOct\LinqWithCollectionEx1\LinqWithCollectionEx1\obj\Debug\LinqWithCollectionEx1.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SSLPDN004\DN004\C#\DN004\22ndOct\LinqWithCollectionEx1\LinqWithCollectionEx1\obj\Debug\LinqWithCollectionEx1.exe
+C:\Users\kaushik\Desktop\SSLPDN004\DN004\C#\DN004\22ndOct\LinqWithCollectionEx1\LinqWithCollectionEx1\obj\Debug\LinqWithCollectionEx1.pdb

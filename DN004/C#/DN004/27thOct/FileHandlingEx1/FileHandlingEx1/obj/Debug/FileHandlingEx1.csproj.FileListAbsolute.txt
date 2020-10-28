@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\FileHandlingEx1\FileHandlingEx1\bin\Debug\FileHandlingEx1.exe.config
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\FileHandlingEx1\FileHandlingEx1\bin\Debug\FileHandlingEx1.exe
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\FileHandlingEx1\FileHandlingEx1\bin\Debug\FileHandlingEx1.pdb
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\FileHandlingEx1\FileHandlingEx1\obj\Debug\FileHandlingEx1.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\FileHandlingEx1\FileHandlingEx1\obj\Debug\FileHandlingEx1.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\FileHandlingEx1\FileHandlingEx1\obj\Debug\FileHandlingEx1.exe
+C:\Users\kaushik\Desktop\SLPPDN003\DN003\C#\DN003\LINQ\FileHandlingEx1\FileHandlingEx1\obj\Debug\FileHandlingEx1.pdb
