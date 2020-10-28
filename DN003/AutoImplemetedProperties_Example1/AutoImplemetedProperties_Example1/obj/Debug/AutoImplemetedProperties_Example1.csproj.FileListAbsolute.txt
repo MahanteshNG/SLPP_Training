@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SLPPDN003\C#\AutoImplemetedProperties_Example1\AutoImplemetedProperties_Example1\bin\Debug\AutoImplemetedProperties_Example1.exe.config
+C:\Users\kaushik\Desktop\SLPPDN003\C#\AutoImplemetedProperties_Example1\AutoImplemetedProperties_Example1\bin\Debug\AutoImplemetedProperties_Example1.exe
+C:\Users\kaushik\Desktop\SLPPDN003\C#\AutoImplemetedProperties_Example1\AutoImplemetedProperties_Example1\bin\Debug\AutoImplemetedProperties_Example1.pdb
+C:\Users\kaushik\Desktop\SLPPDN003\C#\AutoImplemetedProperties_Example1\AutoImplemetedProperties_Example1\obj\Debug\AutoImplemetedProperties_Example1.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SLPPDN003\C#\AutoImplemetedProperties_Example1\AutoImplemetedProperties_Example1\obj\Debug\AutoImplemetedProperties_Example1.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SLPPDN003\C#\AutoImplemetedProperties_Example1\AutoImplemetedProperties_Example1\obj\Debug\AutoImplemetedProperties_Example1.exe
+C:\Users\kaushik\Desktop\SLPPDN003\C#\AutoImplemetedProperties_Example1\AutoImplemetedProperties_Example1\obj\Debug\AutoImplemetedProperties_Example1.pdb

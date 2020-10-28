@@ -1,0 +1,7 @@
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App7\CRUD_DataAdapter\CRUDDisplay\CRUDDisplay\bin\Debug\CRUDDisplay.exe.config
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App7\CRUD_DataAdapter\CRUDDisplay\CRUDDisplay\bin\Debug\CRUDDisplay.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App7\CRUD_DataAdapter\CRUDDisplay\CRUDDisplay\bin\Debug\CRUDDisplay.pdb
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App7\CRUD_DataAdapter\CRUDDisplay\CRUDDisplay\obj\Debug\CRUDDisplay.csprojAssemblyReference.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App7\CRUD_DataAdapter\CRUDDisplay\CRUDDisplay\obj\Debug\CRUDDisplay.csproj.CoreCompileInputs.cache
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App7\CRUD_DataAdapter\CRUDDisplay\CRUDDisplay\obj\Debug\CRUDDisplay.exe
+C:\Users\kaushik\Desktop\SSLPDN005\C#_Apps\App7\CRUD_DataAdapter\CRUDDisplay\CRUDDisplay\obj\Debug\CRUDDisplay.pdb

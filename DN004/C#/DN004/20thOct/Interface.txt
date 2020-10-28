@@ -1,0 +1,15 @@
+Interface: 
+
+Multiple or Hybrid Inheritance is not directly supported by class concept in Java and C#.
+
+So if you want to have multiple or hybrid inheritance concept in C# or Java, we can do so by using
+interface.
+
+Interface is not a class but a contract;ie, a collection of rules which are to be implemented by child
+classes [otherwise compiler will generate error].
+
+Interface is purely virtual [ie it will never contain any method with implementation].
+
+We can not create an object of interface.
+
+Can not use any public or private or any other access specificiers to declare interface method.

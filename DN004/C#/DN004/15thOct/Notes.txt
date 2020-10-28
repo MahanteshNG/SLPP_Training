@@ -1,0 +1,39 @@
+Class:
+
+(A) private class members: To Store data within the class
+
+(B) Contructors: 
+Special methods which:
+(i) takes same name as that of the class
+(ii) Does not contain any return or non return type
+(iii) Automatically called when you create class object
+
+Usage of Constructor:
+(i) Create a class object
+(ii) Pass data from front end (ie executable class) to storage class
+
+Constructors are of 2 types:
+(i) Parameterless or default constructor
+(ii) Parameterized Constractor
+
+(c) Properties: These are special members of class which are declared with public scope and
+contains 2 accessors:
+(i)get-> Extract data from class members
+(ii)set -> Insert data under class members
+
+******************************************************************
+
+Auto Implemented Properties:
+These properties are used if the class does have any class members. So here we use the properties
+to store records
+
+****************************************************************
+Regex Class: This class is used to validate input against given pattern. 
+
+Namespace: System.Text.RegularExpressions
+
+Method: IsMatch(input,pattern) -- Output will be boolean value
+
+pattern: @"^[pattern]{length}$"
+example: @"^[A-Z]{4}[0-9]{2}[A-Z]{2}[0-9]{3}$"    SSLPP20DN004 valid   SLPPDN02004  Invalid
+
