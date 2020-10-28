@@ -1,0 +1,18 @@
+Exceptions are run time bugs which occur due to incorrect user input while program is executing
+which causes the abrupt termination of program.
+
+Exception Handlers are employed by developers to handle these runtime exceptions so that the
+program does not crashes and also the users are notified about the problems.
+
+Exception Handling blocks:
+try
+{
+//contains the code protion which can raise an exception
+}
+catch
+{
+//contains message for user if exception occurs
+}
+
+**All types of exceptions in C# derive from base Exception Class.
+Example of Exceptions: DivideByZero,FormatException,FileNotFound etc.
